@@ -1,0 +1,23 @@
+ACTIVIDAD 2 - CONFIGURACIÓN DE HERRAMIENTAS
+
+Nombre: Jhon Mario Rodríguez Flechas
+
+Repositorio: Actividad2-Git
+
+ARCHIVO 1: CONCEPTOS BÁSICOS DE GIT
+
+1. Git: sistema de control de versiones que permite registrar los cambios realizados en los archivos de un proyecto.
+
+2. GitHub: plataforma en línea que permite alojar repositorios y compartir proyectos.
+
+3. Repositorio: espacio donde se almacenan los archivos de un proyecto y el historial de sus modificaciones.
+
+4. Commit: registro de los cambios realizados en los archivos del repositorio.
+
+5. Git add: comando utilizado para preparar los archivos modificados antes de realizar un commit.
+
+6. Git push: comando utilizado para enviar los commits al repositorio remoto.
+
+7. Git clone: comando que permite crear una copia local de un repositorio remoto.
+
+8. README.md: archivo que explica el propósito de un proyecto y los pasos realizados.

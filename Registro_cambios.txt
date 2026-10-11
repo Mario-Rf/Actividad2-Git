@@ -1,0 +1,18 @@
+ACTIVIDAD 2 - REGISTRO DE CAMBIOS
+
+Proyecto: Actividad2-Git
+
+CAMBIO 1
+Se creó el repositorio Actividad2-Git y se publicó en GitHub.
+
+CAMBIO 2
+Se elaboró el documento Capitulo_1_Introduccion.docx con conceptos básicos de Git.
+
+CAMBIO 3
+Se exportó el capítulo 1 al formato PDF.
+
+CAMBIO 4
+Se realizó un commit para registrar los documentos y un push para enviarlos al repositorio remoto.
+
+CAMBIO 5
+Se creó el archivo conceptos_git.txt para documentar conceptos fundamentales de Git.
