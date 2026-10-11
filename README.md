@@ -1,4 +1,4 @@
-Actividad2-Git
+# Actividad2-Git
 
 Actividad 2: Configuración de herramientas Git y GitHub
 
