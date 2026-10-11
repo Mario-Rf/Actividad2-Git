@@ -1,58 +1,52 @@
-# Actividad2-Git
-Actividad 2 de ciencia de datos, configuracion de herrammientas Git y GitHub
+Actividad2-Git
+
 Actividad 2: Configuración de herramientas Git y GitHub
 
 Estudiante: Jhon Mario Rodríguez Flechas
 
 1. Descripción del proyecto
 
-Este repositorio se creó como parte de la Actividad 2 del curso de Ciencia de Datos. Su objetivo es practicar el uso de Git y GitHub para controlar las versiones de los archivos, documentar los cambios y mantener una copia remota del trabajo.
+Este repositorio se creó como parte de la Actividad 2 del curso de Ciencia de Datos. Su objetivo es practicar el uso de Git y GitHub para controlar las versiones de los archivos, documentar los cambios y mantener una copia remota del proyecto.
 
 2. Herramientas utilizadas
 
 - Git: sistema de control de versiones.
 - GitHub: plataforma para alojar el repositorio remoto.
-- GitHub Desktop: aplicación para administrar el repositorio.
+- GitHub Desktop: aplicación para administrar el repositorio y sincronizar los cambios.
 - Microsoft Word: herramienta utilizada para elaborar los documentos del tutorial.
 - Formato PDF: utilizado para exportar los documentos.
 
 3. Actividades realizadas
 
 1. Creación de una cuenta en GitHub.
-2. Creación y publicación del repositorio Actividad2-Git.
-3. Elaboración del capítulo 1 del tutorial de Git en Word.
-4. Exportación del capítulo 1 a PDF.
-5. Creación de los archivos conceptos_git.txt y registro_cambios.txt.
+2. Creación y publicación del repositorio "Actividad2-Git".
+3. Elaboración de los capítulos del tutorial de Git.
+4. Exportación de los documentos del tutorial a PDF.
+5. Creación de los archivos "Conceptos_git.txt" y "Registro_cambios.txt".
 6. Registro de los cambios mediante commits.
-7. Envío de los cambios al repositorio remoto mediante push.
+7. Sincronización y publicación de los cambios en GitHub.
+8. Elaboración del informe de proceso en PDF.
 
-4. Comandos básicos de Git
+4. Organización de los archivos
 
-Clonar un repositorio:
+- Tutorial-Git/: carpeta que contiene los documentos del tutorial.
+- Conceptos_git.txt: archivo con conceptos relacionados con Git.
+- Registro_cambios.txt: archivo para documentar los cambios realizados.
+- README.md: archivo que describe el proyecto y las actividades.
+- Informe_de_proceso.pdf: informe con la descripción del procedimiento, las dificultades, las soluciones y las conclusiones.
 
-"git clone URL_DEL_REPOSITORIO"
+5. Comandos y operaciones utilizados
 
-Preparar los cambios:
-
-"git add ."
-
-Registrar los cambios:
-
-"git commit -m "Descripción del cambio""
-
-Enviar los cambios a GitHub:
-
-"git push origin main"
-
-Estos comandos permiten copiar un repositorio, preparar archivos, registrar modificaciones y enviar los commits al repositorio remoto. En esta actividad se utilizó GitHub Desktop para administrar los cambios.
-
-5. Organización de los archivos
-
-- "Tutorial-Git/": carpeta que contiene el documento Word y el PDF del capítulo 1.
-- "conceptos_git.txt": archivo con definiciones de conceptos básicos.
-- "registro_cambios.txt": archivo con el registro de las actividades realizadas.
-- "README.md": documento que describe el proyecto y el proceso de trabajo.
+- "git add": prepara los archivos para registrarlos.
+- "git commit": registra los cambios con un mensaje descriptivo.
+- "git push": publica los commits en el repositorio remoto.
+- "Fetch origin": consulta los cambios disponibles en el repositorio remoto.
+- "Pull origin": descarga e integra los cambios remotos.
 
 6. Conclusión
 
-La actividad permitió comenzar a utilizar Git y GitHub para organizar documentos y controlar sus versiones. También permitió comprender la importancia de registrar los cambios con mensajes descriptivos y enviarlos al repositorio remoto para conservar una copia del trabajo.
+El desarrollo de esta actividad permitió conocer y practicar el uso de Git, GitHub y GitHub Desktop para organizar archivos, registrar cambios y publicar documentos en un repositorio remoto. También permitió comprender la importancia de mantener sincronizadas las versiones local y remota del proyecto.
+
+7. Enlace al repositorio
+
+https://github.com/Mario-Rf/Actividad2-Git
