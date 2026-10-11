@@ -47,6 +47,4 @@ Este repositorio se creó como parte de la Actividad 2 del curso de Ciencia de D
 
 El desarrollo de esta actividad permitió conocer y practicar el uso de Git, GitHub y GitHub Desktop para organizar archivos, registrar cambios y publicar documentos en un repositorio remoto. También permitió comprender la importancia de mantener sincronizadas las versiones local y remota del proyecto.
 
-7. Enlace al repositorio
 
-https://github.com/Mario-Rf/Actividad2-Git
