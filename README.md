@@ -18,14 +18,14 @@ Este repositorio se creó como parte de la Actividad 2 del curso de Ciencia de D
 
 3. Actividades realizadas
 
-1. Creación de una cuenta en GitHub.
-2. Creación y publicación del repositorio "Actividad2-Git".
-3. Elaboración de los capítulos del tutorial de Git.
-4. Exportación de los documentos del tutorial a PDF.
-5. Creación de los archivos "Conceptos_git.txt" y "Registro_cambios.txt".
-6. Registro de los cambios mediante commits.
-7. Sincronización y publicación de los cambios en GitHub.
-8. Elaboración del informe de proceso en PDF.
+- Creación de una cuenta en GitHub.
+- Creación y publicación del repositorio "Actividad2-Git".
+- Elaboración de los capítulos del tutorial de Git.
+- Exportación de los documentos del tutorial a PDF.
+- Creación de los archivos "Conceptos_git.txt" y "Registro_cambios.txt".
+- Registro de los cambios mediante commits.
+- Sincronización y publicación de los cambios en GitHub.
+- Elaboración del informe de proceso en PDF.
 
 4. Organización de los archivos
 
